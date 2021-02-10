@@ -1,0 +1,7 @@
+Cabrera Badillo Daniel
+09/02/2021
+Respuestas prueba tecnica.
+1. Respecto a html necesitas html 1.0 trasitional con css inline, para realizar el diseño necesitas tablas y etiquetas compatibles con los clientes de correo.
+2. El html que utilizan es HTML 1.0 Transitional y el css inline
+3. No manejo adobe premiere pro pero sí manejo Imovie para macbook.
+4. Manejo Adobe XD para maquetacion de sitios web y Photoshop y Gimp para editor de fotos e imagenes
